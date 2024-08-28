@@ -2,25 +2,25 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-26T21:00:10Z" name="Suite" finished-at="2024-08-26T21:00:23Z" duration-ms="12847">
+  <suite started-at="2024-08-28T22:10:15Z" name="Suite" finished-at="2024-08-28T22:10:23Z" duration-ms="8064">
     <groups>
       <group name="errorTest">
         <method signature="errorValidation.ErrormsgCheck()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" name="ErrormsgCheck" class="YaminiBarla.tests.errorValidation"/>
       </group> <!-- errorTest -->
     </groups>
-    <test started-at="2024-08-26T21:00:10Z" name="Submit Order Test" finished-at="2024-08-26T21:00:10Z" duration-ms="13">
+    <test started-at="2024-08-28T22:10:15Z" name="Submit Order Test" finished-at="2024-08-28T22:10:15Z" duration-ms="5">
     </test> <!-- Submit Order Test -->
-    <test started-at="2024-08-26T21:00:10Z" name="Error validation Test" finished-at="2024-08-26T21:00:23Z" duration-ms="12845">
+    <test started-at="2024-08-28T22:10:15Z" name="Error validation Test" finished-at="2024-08-28T22:10:23Z" duration-ms="8063">
       <class name="YaminiBarla.tests.errorValidation">
-        <test-method is-config="true" signature="launchapplication()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-26T21:00:10Z" name="launchapplication" finished-at="2024-08-26T21:00:22Z" duration-ms="11185" status="PASS">
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-28T22:10:15Z" name="launchapplication" finished-at="2024-08-28T22:10:22Z" duration-ms="7128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchapplication -->
-        <test-method signature="ErrormsgCheck()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-26T21:00:22Z" name="ErrormsgCheck" finished-at="2024-08-26T21:00:23Z" duration-ms="1266" status="PASS">
+        <test-method signature="ErrormsgCheck()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-28T22:10:22Z" name="ErrormsgCheck" finished-at="2024-08-28T22:10:23Z" duration-ms="742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ErrormsgCheck -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-26T21:00:23Z" name="closeBrowser" finished-at="2024-08-26T21:00:23Z" duration-ms="328" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:YaminiBarla.tests.errorValidation@1339e7aa]" started-at="2024-08-28T22:10:23Z" name="closeBrowser" finished-at="2024-08-28T22:10:23Z" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
